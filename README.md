@@ -13,7 +13,7 @@ These scripts are designed for people who want hands on experience with debuggin
 
 ## Download
 ```
-git clone https://github/Isaac-Hawks/BreakMyVM
+git clone https://github.com/Isaac-Hawks/BreakMyVM
 cd BreakMyVM
 ```
 
